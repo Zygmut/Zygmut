@@ -34,7 +34,7 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zygmut&hide_border=true&theme=radical" />
 </details>
 
 
