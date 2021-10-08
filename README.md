@@ -1,4 +1,4 @@
-## Hey, I'm [Ruben Palmer](https://github.com/Zygmut/). Welcome to my virtual workspace
+## Hey, I'm [Rubén Palmer](https://github.com/Zygmut/). Welcome to my virtual workspace
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/rub%C3%A9n-palmer-p%C3%A9rez-2963b4220/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Zygmut.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Zygmut)
