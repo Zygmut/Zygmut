@@ -45,6 +45,7 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 	    <li><b>Laptop: </b> G5 KC (i5)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> Alacritty</li>
+	    <li><b>Shell: </b> zsh 5.8 </li>
 	    <li><b>Code Editor:</b> VSCode / Vim</li>
 	    <br />
 	</ul>	
