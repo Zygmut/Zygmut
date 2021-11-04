@@ -8,13 +8,19 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 
 ### Languages and Tools:
 
-<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-<img align="left" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal">
-<img align="left" height="27" src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" alt="Overleaf">
-<img align="left" height="27" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166179%2Fisolated%2Fpreview%2Fb83d6b47a9502dfaf535087627a8bf96-c-programming-language-icon-by-vexels.png&f=1&nofb=1" alt="c">
-<img align="left" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fdesigner-skills%2F128%2Fcode-programming-java-software-develop-command-language-512.png&f=1&nofb=1" alt="Java">
-<img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python">
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+
+<a href="https://git-scm.com/"><img align="left" height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></a>
+
+<a href="https://github.com/alacritty/alacritty"><img align="left" height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></a>
+
+<a href="https://www.overleaf.com/"><img align="left" height="27" src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" alt="Overleaf"></a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" height="27" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166179%2Fisolated%2Fpreview%2Fb83d6b47a9502dfaf535087627a8bf96-c-programming-language-icon-by-vexels.png&f=1&nofb=1" alt="c"></a>
+
+<a href="https://www.java.com/"><img align="left" height="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fdesigner-skills%2F128%2Fcode-programming-java-software-develop-command-language-512.png&f=1&nofb=1" alt="Java"></a>
+
+<a href="https://www.python.org/"><img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></a>
 <br />
 <br />
 
