@@ -43,9 +43,9 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04.3 LTS</li>
 	    <li><b>Laptop: </b> G5 KC (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Brave</li>
 	    <li><b>Terminal: </b> Alacritty</li>
-	    <li><b>Shell: </b> zsh 5.8 </li>
+	    <li><b>Shell: </b> zsh 5.8</li>
 	    <li><b>Code Editor:</b> VSCode / Vim</li>
 	    <br />
 	</ul>	
