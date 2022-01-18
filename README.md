@@ -47,8 +47,7 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04.3 LTS</li>
-	    <li><b>Laptop: </b> G5 KC (i5)</li>
+  	    <li><b>OS:</b> Archlinux (I use Arch btw)</li>
   	    <li><b>Browser: </b> Brave</li>
 	    <li><b>Terminal: </b> Alacritty</li>
 	    <li><b>Shell: </b> zsh 5.8</li>
