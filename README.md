@@ -24,7 +24,7 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 <br />
 <br />
 
-### Projects and Dev Stuffs:
+### Stats & Dev Stuff:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
