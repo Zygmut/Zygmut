@@ -20,7 +20,11 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 
  - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS and 🚀 bash 
 
+- 🌱 Currently learning Web dev
+
 - 👾 Linux is my passion, even if its one to suffer when ricing
+
+### Tech
 
 <section align="left">
 <h4 align="center">Editors</h4>
