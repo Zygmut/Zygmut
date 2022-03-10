@@ -1,3 +1,4 @@
+
 # Hey, I'm [Zygmut](https://github.com/Zygmut/). Welcome to my virtual workspace
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/rub%C3%A9n-palmer-p%C3%A9rez-2963b4220/)
@@ -7,11 +8,10 @@
 
 ## About
 
-<a width="30%" href="https://github.com/Zygmut">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Zygmut&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zygmut&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zygmut&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="frenzystreaks" />
-</a>
+<img align="right" width="50%" alt="Zygmut's stats" src="https://github-readme-stats.vercel.app/api?username=Zygmut&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A">
+<img align="right" width="50%" alt="Zygmut's streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Zygmut&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=20202A">
+<img align="right" width="50%" alt="Zygmut's code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zygmut&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A"  />
+
 
 I like to code. It might not be perfect but it makes the cut, sometimes.
 
@@ -19,8 +19,6 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 - 🙃 I tend to forget the things, I'm workingon it using [Clickup](https://app.clickup.com/)
 
  - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS and 🚀 bash 
-
-- 👯 Rant over my code, steal it, fork it, blow it up, idk. Feedback and Destructive opinion are always welcome.
 
 - 🌱 Currently learning web-dev
 
