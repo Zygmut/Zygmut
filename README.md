@@ -9,11 +9,11 @@
 I like to code. It might not be perfect but it makes the cut, sometimes.
 
 
-- 🙃 I tend to forget the things
+- 🙃 I tend to forget things
 
- - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS and 🚀 bash 
+ - 🧠 I know some Python, Java, HTML/CSS/JS and bash 
 
-- 🌱 Currently learning Web dev
+- 🌱 Currently learning web dev
 
 - 👾 Linux is my passion, even if its one to suffer when ricing
 
