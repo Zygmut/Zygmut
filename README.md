@@ -41,6 +41,7 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 </h3>
 </section>
 
+<br />
 <footer>
 	<h3 align="center">Have a nice day, drink water and eat your veggies</h2>
 </footer>
