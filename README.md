@@ -9,7 +9,7 @@
 I like to code. It might not be perfect but it makes the cut, sometimes.
 
 
-- 🙃 I tend to forget the things, I'm workingon it using [Clickup](https://app.clickup.com/)
+- 🙃 I tend to forget the things
 
  - I know some 🐍 Python, ♨️ Java 🌐 HTML/CSS/JS and 🚀 bash 
 
