@@ -11,7 +11,7 @@ I like to code. It might not be perfect but it makes the cut, sometimes.
 
 - 🙃 I tend to forget things
 
-- 🧠 I know some Python, Java, HTML/CSS/JS and bash 
+- 🧠 I know some Python, Java, HTML/CSS/JS and shell 
 
 - 🌱 Currently working and studying
 
